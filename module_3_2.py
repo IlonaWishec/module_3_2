@@ -24,4 +24,7 @@ send_email('Вы видите это сообщение как лучший ст
 send_email('Пожалуйста, исправьте задание', 'urban.student@mail.ru', sender='urban.teacher@mail.uk')
 send_email('Напоминаю самому себе о вебинаре', 'urban.teacher@mail.ru', sender='urban.teacher@mail.ru')
 
-
+# Письмо успешно отправлено с адреса university.help@gmail.com на адрес vasyok1337@gmail.com
+# НЕСТАНДАРТНЫЙ ОТПРАВИТЕЛЬ! Письмо отправлено с адреса urban.info@gmail.com на адрес urban.fan@mail.ru
+# Невозможно отправить письмо с адреса urban.teacher@mail.uk на адрес urban.student@mail.ru
+# Нельзя отправить письмо самому себе!
